@@ -1,0 +1,219 @@
+#div1 {
+    background-image: url(https://tse1-mm.cn.bing.net/th/id/OIP-C.BduaJnc_xU4gD1cc-B2n0gHaEK?w=255&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7);
+    background-position:  left top;
+    background-repeat:  repeat;
+    padding: 15px;
+height:2400px;
+}
+.ul1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #444;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 50px;
+    text-decoration: none;
+}
+li a:hover:not(.active) {
+    background-color: #555;
+}
+.active {
+    background-color:#606060;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    }
+    
+    li {
+    float: left;
+    border-right: 1px solid #bbb;
+    }
+    
+    .writer-img {
+        -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+        -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+        box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+        float: left;
+        width: 50px;
+        }
+    
+    li a:hover {
+    background-color: #111;
+    }
+    .h1 {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+        color: #000000;
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 24px;
+        padding-bottom: 30px;
+        text-align: center;
+        width: 70%;
+        }
+        
+        .byline {
+        font-family: Helvetica;
+        color: #000000;
+        float: left;
+        font-size: 14px;
+        padding-left: 10px;
+        text-transform: uppercase;
+        }
+        
+        .left{
+            height: 265px;
+            float:left;
+              shape-margin:20px;
+            
+          }
+          .pp{
+            font-weight: 5px;
+          font-size: 40px;
+            line-height: 80px;
+            padding-bottom: 00px;
+          }
+    .h3{
+ margin:0px auto; 
+  font-size:26px; 
+  padding:40px 0px; 
+  color:#000000; 
+  text-align:center;
+
+    }
+    .p1{
+        margin:0px auto; 
+         font-size:26px; 
+         padding:40px 0px; 
+         color:#000000; 
+         text-align:center;
+       
+           }
+    .h4{
+        margin:0px auto; 
+        font-size:26px; 
+        padding:40px 0px; 
+        color:#000000; 
+        text-align:center;
+           
+               }
+    .p2{
+         margin:0px auto; 
+        font-size:26px; 
+        padding:40px 0px; 
+        color:#000000; 
+         text-align:center;
+               
+                   }
+
+    .image {
+        background-image: url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp2.itc.cn%2Fq_70%2Fimages03%2F20210526%2F8904df580da5470198229af20c1359cf.png&refer=http%3A%2F%2Fp2.itc.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1651930419&t=e766cd70169b1dd25fb021c000616a20");
+        background-size: cover;
+        background-position: left;
+        height: 900px;
+        }
+
+        .caption {
+            display: block;
+            font-family: 'Playfair Display', serif;
+            font-size: 34px;
+            font-style: italic;
+            line-height: 34px;
+            margin-left: 20px;
+            padding: 10px;
+            position: relative;
+            text-align: center;
+            top: 50%;
+            width: 90%;
+            }
+    
+    .h5{
+        margin:0px auto; 
+        font-size:26px; 
+        padding:40px 0px; 
+        color:#000000; 
+        
+    }        
+
+    .p3{
+        margin:0px auto; 
+        font-size:26px; 
+        padding:40px 0px; 
+        color:#000000; 
+        
+    }        
+    
+    #myInput {
+        background-image: url('https://static.runoob.com/images/mix/searchicon.png'); 
+        background-position: 10px 12px; 
+        background-repeat: no-repeat; 
+        width: 100%; 
+        font-size: 16px; 
+        padding: 12px 20px 12px 40px; 
+        border: 1px solid #ddd;
+        margin-bottom: 12px;
+      }
+       
+      #myTable {
+        border-collapse: collapse; 
+        width: 100%; 
+        border: 1px solid #ddd; 
+        font-size: 18px;
+      }
+       
+      #myTable th, #myTable td {
+        text-align: left; 
+        padding: 12px; 
+      }
+       
+      #myTable tr {
+        
+        border-bottom: 1px solid #ddd;
+      }
+       
+      .image1 {
+        background-image: url("http://www.cnnb.com.cn/pic/003/002/913/00300291372_ea294ad4.jpg");
+        background-size: cover;
+        background-position: left;
+        height: 900px;
+        }
+        .image2 {
+            background-image: url("https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2021%2F0415%2F638fec45j00qrkc0q001pc000hs00bzg.jpg&thumbnail=650x2147483647&quality=80&type=jpg");
+            background-size: cover;
+            background-position: left;
+            height: 900px;
+            }
+        .image3{
+                background-image: url("http://img.mp.itc.cn/upload/20170802/a82d3dc52ff14486ab53264f02cdb458_th.jpg");
+                background-size: cover;
+                background-position: left;
+                height: 900px;
+                }
+        .image4 {
+                    background-image: url("http://p7.itc.cn/images01/20200925/a82c164fd07e4b3aaddfebc0170a0adc.jpeg");
+                    background-size: cover;
+                    background-position: left;
+                    height: 900px;
+                    }
+
+                    footer {  
+                      position: fixed;  
+                      left: 10px;  
+                      bottom: 00px;  
+                      right: 10px;   
+                      width: 100%;  
+                       
+                      color: white;  
+                      text-align: center;  
+                      }
